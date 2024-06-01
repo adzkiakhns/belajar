@@ -1,2 +1,2 @@
 # belajar
-belajar responsi
+belajar responsi buat repo
